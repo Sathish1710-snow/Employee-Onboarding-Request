@@ -30,6 +30,6 @@ Business Impact:
 - Faster approval and execution process
 - Standardized onboarding workflow
 
-Demo Video - Watch Video on LinkdIn: 
+Demo Video - Watch Video on LinkedIn: 
 
 [LinkedIn Post] - (https://www.linkedin.com/posts/sathish-s-132616264_servicenow-project-employee-onboarding-activity-7464966473342459905-NonD?utm_source=share&utm_medium=member_android&rcm=ACoAAEDgAjYByl-9bH9C03fWczUpsuDQRM2BclY)
